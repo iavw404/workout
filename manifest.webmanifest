@@ -1,0 +1,1 @@
+{"name":"Workout Tracker","short_name":"Workout","description":"Personal workout & body weight tracker","start_url":"/workout/","display":"standalone","background_color":"#0f1115","theme_color":"#0f1115","lang":"en","scope":"/workout/","icons":[{"src":"app-icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}]}
